@@ -3,9 +3,9 @@
 Repository ini berisi kumpulan latihan saya dalam mempelajari HTML dan CSS dari dasar hingga membuat website sederhana.
 
 ## Progress
-- [] Basic HTML
-- [] Text & Links
-- [] Images & Media
+- [x] Basic HTML
+- [x] Text & Links
+- [x] Images & Media
 - [] Basic CSS
 - [] Layout
 - [] Navbar
