@@ -1,17 +1,17 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: dimgrey;
+    background-color: whitesmoke;
 }
 
 header {
-    background-color: whitesmoke;
-    color: dimgray;
+    background-color: dimgray;
+    color: whitesmoke;
     text-align: center;
 }
 
 nav {
-    background-color: whitesmoke;
-    color: dimgray;
+    background-color: dimgray;
+    color: whitesmoke;
     text-align: center;
 }
 
@@ -20,16 +20,16 @@ h1 {
 }
 
 section {
-    background-color: whitesmoke;
-    color: dimgray;
+    background-color: dimgray;
+    color: whitesmoke;
 }
 
 li {
-    color: grey;
+    color: whitesmoke;
 }
 
 footer {
-    background-color: whitesmoke;
+    background-color: dimgray;
     color: black;
     text-align: center;
 }
