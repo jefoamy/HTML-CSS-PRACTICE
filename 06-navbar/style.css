@@ -57,7 +57,7 @@ body {
 
 .container {
     background-color: white;
-    width: 800px;
+    width: 810px;
     margin: auto;
 }
 
@@ -111,7 +111,7 @@ body {
     height: 500px;
     border-radius: 15px;
     padding: 0px 20px;
-    background-image: url(AAD8248A-13F6-4882-A0AF-92283E93649C_1_102_o.jpeg);
+    background-image: url(images/AAD8248A-13F6-4882-A0AF-92283E93649C_1_102_o.jpeg);
     background-size: cover;
     border-top: 3px solid skyblue;
     border-bottom: 3px solid darkorange;
@@ -154,4 +154,14 @@ body {
     font-weight: bolder;
     font-size: 25px;
     padding: 8px 1px;
+}
+
+.site {
+    text-align: center;
+    margin: 40px 19px 10px 19px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #333;
 }
