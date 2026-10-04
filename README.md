@@ -8,7 +8,7 @@ Repository ini berisi kumpulan latihan saya dalam mempelajari HTML dan CSS dari 
 - [x] Images & Media
 - [x] Basic CSS
 - [x] Layout
-- [] Navbar
+- [x] Navbar
 - [] Card
 - [] Form
 - [] Profile Page
